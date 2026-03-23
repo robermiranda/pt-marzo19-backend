@@ -1,7 +1,7 @@
 import express from 'express'
 import type { Request, Response } from 'express'
 import bcrypt from 'bcrypt'
-import db from '../db.ts'
+import db from '../db.js'
 
 const router = express.Router()
 
