@@ -8,7 +8,7 @@
   "main": "dist/server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node dist/server.js",
+    "start": "node src/server.ts",
     "build": "tsc",
     "dev": "nodemon src/server.ts"
   },
