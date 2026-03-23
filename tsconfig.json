@@ -43,6 +43,6 @@
     "noEmit": true,
     "allowImportingTsExtensions": true
   },
-  "include": ["src/**/*.ts", "src/routes/birds.js"],
+  "include": ["src/**/*.ts", "src/routes/users.ts"],
   "exclude": ["node_modules"]
 }

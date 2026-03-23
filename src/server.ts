@@ -1,6 +1,6 @@
 import express from 'express';
 import type { Application } from 'express';
-import users from './routes/users.ts'
+import users from './routes/users.js'
 import path from 'path';
 import { fileURLToPath } from 'url';
 
